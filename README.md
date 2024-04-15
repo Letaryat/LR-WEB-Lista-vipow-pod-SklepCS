@@ -1,5 +1,5 @@
 # LR WEB - Lista vipow pod SklepCS
- Lista vipow dla Level Ranks Web z motywem Rich pod SklepCS
+ Lista vipow dla Level Ranks Web z motywem Rich pod SklepCS. <br/>
  Jest to modul stworzony przez [Toil z HLmod](https://hlmod.net/resources/lr-web-spisok-vip-igrokov.4159/) zmodyfikowany przeze mnie aby funkcjonowal z SklepCS oraz dodalem tam kilka poprawek wizualnych.
 
 ## Preview
