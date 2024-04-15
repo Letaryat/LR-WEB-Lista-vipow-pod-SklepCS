@@ -1,0 +1,94 @@
+{
+    "_Group": {
+        "EN": "Grupa:",
+        "RU": "Группа"
+    },
+    "_Term": {
+        "EN": "Term:",
+        "RU": "Срок:"
+    },
+    "_LastActive": {
+        "EN": "Koniec:",
+        "RU": "Последняя активность"
+    },
+    "_Vips": {
+        "EN": "Lacznie vipow:",
+        "RU": "Всего випов"
+    },
+    "_Forever": {
+        "EN": "Forever",
+        "RU": "Навсегда"
+    },
+    "_Steamid": {
+        "EN": "SteamID",
+        "RU": "SteamID"
+    },
+    "test_vip": {
+        "EN": "Test VIP",
+        "RU": "Тестовый вип"
+    },
+    "VIP": {
+        "EN": "VIP",
+        "RU": "VIP"
+    },
+    "ClanCreate": {
+        "EN": "Clan Create",
+        "RU": "Создание кланов"
+    },
+    "OnlyCustomSkins": {
+        "EN": "Custom Skins",
+        "RU": "Кастомные скины"
+    },
+    "Premium": {
+        "EN": "Premium",
+        "RU": "Премиум"
+    },
+    "1Year": {
+        "EN": "We 1 year old",
+        "RU": "Нам 1 год"
+    },
+    "Deluxe": {
+        "EN": "Deluex",
+        "RU": "Делюкс"
+    },
+    "PrimePlus": {
+        "EN": "Prime Plus",
+        "RU": "Прайм Плюс"
+    },
+    "MODER": {
+        "EN": "Moderator",
+        "RU": "Модератор"
+    },
+    "ADMIN": {
+        "EN": "Admin",
+        "RU": "Админ"
+    },
+    "GLADMIN": {
+        "EN": "Gl Admin",
+        "RU": "Гл. админ"
+    },
+    "DEV": {
+        "EN": "Developer",
+        "RU": "Разработчик"
+    },
+    "_VIP_PLAYERS": {
+        "EN": "VIP players",
+        "RU": "Вип игроки"
+    },
+    "_Online": {
+        "EN": "Online",
+        "RU": "В сети"
+    },
+    "_Offline": {
+        "EN": "Offline",
+        "RU": "Не в сети"
+    },
+    "_Never": {
+        "EN": "Never",
+        "RU": "Никогда"
+    },
+    "_Expired": {
+        "EN": "Expired",
+        "RU": "Истекла"
+    }
+}
